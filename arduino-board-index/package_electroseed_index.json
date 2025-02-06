@@ -292,10 +292,10 @@
           "version": "9.4.0"
         }
       ],
-      "name": "adafruit",
-      "email": "info@adafruit.com",
+      "name": "electroseed",
+      "email": "info@electroseed.fr",
       "help": {
-        "online": "https://forums.adafruit.com"
+        "online": "https://forums.electroseed.com"
       },
       "maintainer": "ElectroSeed",
       "platforms": [
