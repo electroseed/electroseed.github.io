@@ -304,12 +304,12 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "ElectroSeed",
-          "url": "https://electroseed.github.io/arduino-board-index/boards/electroseed-samd-1.0.0.tar.bz2",
-          "archiveFileName": "electroseed-samd-1.0.0.tar.bz2",
-          "checksum": "SHA-256:56a099437b0fc6d160922e34a49147a05600d028d3c780c2f575c4d50106f9e0",
-          "size": "1361007",
+          "url": "https://electroseed.github.io/arduino-board-index/electroseed-samd-1.0.0.zip",
+          "archiveFileName": "electroseed-samd-1.0.0.zip",
+          "checksum": "SHA-256:9b4d8219f4bb99b2e725a9082b3e65c567b808e402bfbc3e72a6a8f02eb34b95",
+          "size": "4899360",
           "help": {
-            "online": "https://forums.adafruit.com"
+            "online": "https://forums.electroseed.fr"
           },
           "boards": [
             {
