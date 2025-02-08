@@ -224,7 +224,7 @@
           "category": "ElectroSeed",
           "url": "https://electroseed.github.io/arduino-board-index/electroseed-samd-1.0.0.zip",
           "archiveFileName": "electroseed-samd-1.0.0.zip",
-          "checksum": "SHA-256:98e89dfa0f60fb209b38ca615374230484400b56021a739738d0ee28a6d91e1d",
+          "checksum": "SHA-256:acb154c498d3c3f5b7b7047a67e1405fa2559ae3d58fd097167809475e7c67fa",
           "size": "2046015",
           "help": {
             "online": "https://github.com/electroseed/ArduinoCore-samd/issues"
