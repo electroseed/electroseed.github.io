@@ -224,14 +224,14 @@
           "category": "ElectroSeed",
           "url": "https://electroseed.github.io/arduino-board-index/electroseed-samd-1.0.0.zip",
           "archiveFileName": "electroseed-samd-1.0.0.zip",
-          "checksum": "SHA-256:4b2b0cf27a91aad476da8d364b1d1ed467dd32ab9ddb1b95bfa193fc95a1e063",
-          "size": "2046133",
+          "checksum": "SHA-256:088bdea8756bab6db0217aacc1c12d05d2f8c90a9594a07d5680c4b9b3859c2f",
+          "size": "2043920",
           "help": {
             "online": "https://github.com/electroseed/ArduinoCore-samd/issues"
           },
           "boards": [
             {
-              "name": "ElectroSeed Tiny Pedals"
+              "name": "ElectroSeed Tiny SamD21 M2"
             },
             {
               "name": "ElectroSeed SamD21 WB"
