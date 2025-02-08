@@ -2,7 +2,7 @@
   "packages": [
     {
       "websiteURL": "https://www.electroseed.fr",
-      "name": "electroseed.fr",
+      "name": "electroseed",
       "email": "",
       "help": {
         "online": "https://github.com/electroseed/electroseed.github.io/tree/main/arduino-board-index"
