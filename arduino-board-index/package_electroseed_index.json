@@ -167,7 +167,7 @@
       "help": {
         "online": "https://github.com/electroseed/electroseed.github.io/tree/main/arduino-board-index"
       },
-      "maintainer": "Neku",
+      "maintainer": "Etienne Saint-Paul",
       "platforms": [
         {
           "name": "ElectroSeed SAMD Boards",
