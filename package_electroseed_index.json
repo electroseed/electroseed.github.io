@@ -213,7 +213,7 @@
       "name": "electroseed",
       "email": "",
       "help": {
-        "online": "https://github.com/electroseed/electroseed.github.io/tree/main/arduino-board-index"
+        "online": "https://electroseed.github.io/arduino-board-index"
       },
       "maintainer": "ElectroSeed",
       "platforms": [
